@@ -1,6 +1,7 @@
 # EMNIST Handwritten Character Recognation
  A-Z & 0-9 character classification with a machine learning model built using the EMNIST dataset
 
-![image](https://user-images.githubusercontent.com/37351206/122909942-5ae0ca80-d35e-11eb-8af7-d69d6c9ebb70.png)
+https://user-images.githubusercontent.com/37351206/157080147-c4957f72-2718-4bdc-a8ac-814fcbe5c889.mp4
 
 
+![Group 1](https://user-images.githubusercontent.com/37351206/157082965-37f4fd71-0811-41d0-98ac-651e5b0c8d5e.png)
