@@ -5,3 +5,6 @@ https://user-images.githubusercontent.com/37351206/157080147-c4957f72-2718-4bdc-
 
 
 ![Group 1](https://user-images.githubusercontent.com/37351206/157082965-37f4fd71-0811-41d0-98ac-651e5b0c8d5e.png)
+
+- 📫 You can access the application from this link [https://play.google.com/store/apps/details?id=com.mervenurtopcu.handwrittencharacterrecognation](https://play.google.com/store/apps/details?id=com.mervenurtopcu.handwrittencharacterrecognation)
+
